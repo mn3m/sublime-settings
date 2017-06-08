@@ -1,0 +1,13 @@
+{
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Block Cursor Everywhere"
+	],
+	"spacegray_fileicons": true,
+	"tab_size": 2,
+	"theme": "DevastateMini.sublime-theme",
+	"vintageous_use_ctrl_keys": false
+}

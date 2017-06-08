@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Auto Refresh",
+		"Babel",
+		"Block Cursor Everywhere",
+		"Cheat Sheets",
+		"Colorsublime",
+		"DevastateMini",
+		"DistractionFreeWindow",
+		"Elixir",
+		"ElixirSublime",
+		"Emmet",
+		"Evernote",
+		"FileDiffs",
+		"Goto-CSS-Declaration",
+		"Indent XML",
+		"JSX",
+		"Materialize",
+		"OmniSharp",
+		"Package Control",
+		"PackageResourceViewer",
+		"Quick File Open",
+		"ReactJS",
+		"Sass",
+		"Theme - Spacegray",
+		"Vintage Numbers",
+		"Vintageous",
+		"W3CValidators",
+		"WordCount"
+	]
+}
